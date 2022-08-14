@@ -4,3 +4,11 @@
 * {
 	font-family: "Lato", sans-serif;
 }
+
+.btn {
+	padding: $padding $padding * 2;
+	background: $green-bg;
+	color: #ffffff;
+	border: none;
+	border-radius: $radius;
+}
